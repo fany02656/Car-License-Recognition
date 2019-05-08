@@ -1,5 +1,5 @@
 # Car-License-Recognition
-中国蓝底车牌识别
+基于MATLAB简单蓝底车牌识别
 
 1、rgb2filtered.m
 预处理图片+蓝色过滤+去除粗噪声
